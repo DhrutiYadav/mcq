@@ -1,0 +1,32 @@
+{
+    question: "Full form of IKS is",
+    choice1: "India Knowledge System",
+    choice2: "Iran Knowledge System",
+    choice3: "Indic Knowledge System",
+    choice4: "Intensive Knowledge System",
+    answer: 3
+},
+{
+    question: "Foundational building blocks of any civilizational knowledge system (CKS) are",
+    choice1: "Truth ",
+    choice2: "Goodness",
+    choice3: "Beauty",
+    choice4: "All of the above ",
+    answer: 4
+},
+{
+    question: "WKS stands for",
+    choice1: "West Knowledge System",
+    choice2: "Western Knowledge System",
+    choice3: "World Knowledge System ",
+    choice4: "Whole Knowledge System ",
+    answer: 2
+},
+{
+    question: "Limitations of western knowledge system are",
+    choice1: "Diversity ",
+    choice2: "Incomplete in its outlook and worldview",
+    choice3: "Definitions are vague",
+    choice4: "All of the above",
+    answer: 4
+},
